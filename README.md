@@ -31,7 +31,7 @@ Hi! I'm Martina Ruiz
    ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
    ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
     
-<br>
+
 
 - **Back-End**:
 
@@ -41,7 +41,7 @@ Hi! I'm Martina Ruiz
    ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
    ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
     
-<br>
+
 
 - **Softwares and Tools**:
 
