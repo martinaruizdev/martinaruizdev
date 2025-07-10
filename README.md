@@ -11,7 +11,7 @@ Hi! I'm Martina Ruiz
 ✔ Experience in Web Design<br>
 ✔ Computer Information Systems student<br>
 ✔ Personal website [link](https://martinaruizdev.vercel.app/)<br>
-📫 Feel free to reach me out **martinaruizdev@gmail.com**
+📫 Feel free to reach out: **martinaruizdev@gmail.com**
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
