@@ -9,8 +9,8 @@ Hi! I'm Martina Ruiz
 
 <br>
 
-✔ Front-End Developer and Web Designer<br>
-✔ Experience in Back-End development<br>
+✔ Full-Stack Developer<br>
+✔ Experience in Web Design<br>
 ✔ Computer Information Systems student<br>
 ✔ Personal website [link](https://martinaruizdev.vercel.app/)<br>
 📫 Feel free to reach me out **martinaruizdev@gmail.com**
