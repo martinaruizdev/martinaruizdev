@@ -6,7 +6,6 @@ Hi! I'm Martina Ruiz
 </h1>
 
 <h3>About me</h3>
-
 <br>
 ✔ Full-Stack Web Developer<br>
 ✔ Experience in Web Design<br>
