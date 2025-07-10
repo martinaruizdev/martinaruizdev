@@ -5,8 +5,6 @@ Hi! I'm Martina Ruiz
 	</a>
 </h1>
 
-<h2>Full-Stack Developer</h2>
-
 <h3>About me</h3>
 
 <br>
