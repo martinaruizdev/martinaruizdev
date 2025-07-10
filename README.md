@@ -5,11 +5,12 @@ Hi! I'm Martina Ruiz
 	</a>
 </h1>
 
+<h2>Full-Stack Developer</h2>
+
 <h3>About me</h3>
 
 <br>
-
-✔ Full-Stack Developer<br>
+✔ Full-Stack Web Developer<br>
 ✔ Experience in Web Design<br>
 ✔ Computer Information Systems student<br>
 ✔ Personal website [link](https://martinaruizdev.vercel.app/)<br>
